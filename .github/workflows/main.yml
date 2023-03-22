@@ -1,4 +1,5 @@
 name: Generate Snake
+# For this to work you need to enable read & write access for workflows in your repo settings
 
 on:
   # run automatically every 24 hours
