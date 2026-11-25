@@ -1,12 +1,23 @@
-### Yo, it's Sebas! 👋
+# Hey, I'm Sebastian 👋
 
-- :telescope: Currently working on: deck tool for Poxnora (because who doesn't love a good strategy game?)
-- :seedling: Learning: new coding techniques to take my card game tools to the next level
-- :dancers: Looking to collaborate on: analytics tool of some sorts (I love my mana curves)
-- :speech_balloon: Ask me about: any collectible card game you can think of - I love them all!
-- :black_joker: Fun fact: I once traded a rare card for a pizza (it was totally worth it)
+developer, open-source contributor, and curious human being
 
-Thanks for stopping by my profile - let's d-d-d-duel!
+### 💻 Coding
+currently contributing to the Obsidian plugin ecosystem and building own stuff
+
+### 📚 Reading & writing
+collecting ideas, connecting thoughts, and sharing selected notes in my digital garden
+
+### 🎸 Music & art
+guitar, singing, vector art, and crafts
+
+### 🥋 Physical activity
+calisthenics, qigong, judo, and dancing
+
+### 🌱 Other interests
+chess, plants, fungi, and the natural world
+
+---
 
 <div align="center">
     <img src="https://github.com/sebakocz/sebakocz/blob/output/github-contribution-grid-snake.svg" />
